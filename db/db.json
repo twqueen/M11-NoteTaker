@@ -1,7 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "id": ""
+        "title": "Sample Note",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisis volutpat est velit egestas dui id. Pellentesque habitant morbi tristique senectus et. Iaculis at erat pellentesque adipiscing. Molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit sed. Et netus et malesuada fames. Tellus in hac habitasse platea. In fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Urna cursus eget nunc scelerisque viverra mauris. Tellus in metus vulputate eu scelerisque felis imperdiet proin.",
+        "id": "505aeceb-9d50-4e2f-92e8-6cd4e288974c"
+    },
+    {
+        "title": "Cranberry Pistachio Biscotti",
+        "text": "¾ cup white sugar\n\n¼ cup light olive oil\n\n2 teaspoons vanilla extract\n\n½ teaspoon almond extract\n\n2 large eggs\n\n1 ¾ cups all-purpose flour\n\n1 teaspoon baking powder\n\n¼ teaspoon salt\n\n1 ½ cups pistachio nuts\n\n½ cup dried cranberries\n\nPreheat the oven to 300 degrees F (150 degrees C). Line a cookie sheet with parchment paper.\n\nMix together sugar and oil in a large bowl until well blended. Mix in vanilla and almond extracts, then beat in eggs. Combine flour, baking powder, and salt in a separate bowl; gradually stir into egg mixture until combined. Fold in pistachios and cranberries by hand.\n\nDivide dough in half. Form each piece into a 12x2-inch log on the prepared cookie sheet. Dough may be sticky; wet hands with cool water to handle dough more easily.\n\nBake in the preheated oven until logs are light brown, about 35 minutes. Remove from the oven and set aside to cool for 10 minutes.\n\nReduce oven temperature to 275 degrees F (135 degrees C).\n\nCut logs on the diagonal into 3/4-inch-thick slices. Lay cookies cut-side down on the cookie sheet.\n\nBake cookies until dry, 8 to 10 minutes.",
+        "id": "a30e01a8-cec8-4229-be8c-bb4adc519bd1"
     }
 ]
