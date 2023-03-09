@@ -1,10 +1,13 @@
+// import required packages
 const express = require('express');
 const path = require('path');
 const api = require('./routes/apiRoutes.js')
 
+// to get the app running setup
 const app = express();
 const PORT = process.env.PORT || 3001;
 
+// middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use('/api/notes', api);
